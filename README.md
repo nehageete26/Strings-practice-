@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0520-detect-capital](https://github.com/nehageete26/Strings-practice-/tree/master/0520-detect-capital) |
 | [0917-reverse-only-letters](https://github.com/nehageete26/Strings-practice-/tree/master/0917-reverse-only-letters) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/nehageete26/Strings-practice-/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/nehageete26/Strings-practice-/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 ## Two Pointers
 |  |
 | ------- |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/nehageete26/Strings-practice-/tree/master/0049-group-anagrams) |
 | [0560-subarray-sum-equals-k](https://github.com/nehageete26/Strings-practice-/tree/master/0560-subarray-sum-equals-k) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/nehageete26/Strings-practice-/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/nehageete26/Strings-practice-/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 ## Hash Table
 |  |
 | ------- |
