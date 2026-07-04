@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/nehageete26/Strings-practice-/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/nehageete26/Strings-practice-/tree/master/0389-find-the-difference) |
 | [0520-detect-capital](https://github.com/nehageete26/Strings-practice-/tree/master/0520-detect-capital) |
+| [0567-permutation-in-string](https://github.com/nehageete26/Strings-practice-/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/nehageete26/Strings-practice-/tree/master/0680-valid-palindrome-ii) |
 | [0844-backspace-string-compare](https://github.com/nehageete26/Strings-practice-/tree/master/0844-backspace-string-compare) |
 | [0917-reverse-only-letters](https://github.com/nehageete26/Strings-practice-/tree/master/0917-reverse-only-letters) |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/nehageete26/Strings-practice-/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/nehageete26/Strings-practice-/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/nehageete26/Strings-practice-/tree/master/0345-reverse-vowels-of-a-string) |
+| [0567-permutation-in-string](https://github.com/nehageete26/Strings-practice-/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/nehageete26/Strings-practice-/tree/master/0680-valid-palindrome-ii) |
 | [0844-backspace-string-compare](https://github.com/nehageete26/Strings-practice-/tree/master/0844-backspace-string-compare) |
 | [0917-reverse-only-letters](https://github.com/nehageete26/Strings-practice-/tree/master/0917-reverse-only-letters) |
@@ -45,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/nehageete26/Strings-practice-/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/nehageete26/Strings-practice-/tree/master/0389-find-the-difference) |
 | [0560-subarray-sum-equals-k](https://github.com/nehageete26/Strings-practice-/tree/master/0560-subarray-sum-equals-k) |
+| [0567-permutation-in-string](https://github.com/nehageete26/Strings-practice-/tree/master/0567-permutation-in-string) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -66,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/nehageete26/Strings-practice-/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0567-permutation-in-string](https://github.com/nehageete26/Strings-practice-/tree/master/0567-permutation-in-string) |
 ## Stack
 |  |
 | ------- |
