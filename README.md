@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/nehageete26/Strings-practice-/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/nehageete26/Strings-practice-/tree/master/0389-find-the-difference) |
 | [0520-detect-capital](https://github.com/nehageete26/Strings-practice-/tree/master/0520-detect-capital) |
+| [0844-backspace-string-compare](https://github.com/nehageete26/Strings-practice-/tree/master/0844-backspace-string-compare) |
 | [0917-reverse-only-letters](https://github.com/nehageete26/Strings-practice-/tree/master/0917-reverse-only-letters) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/nehageete26/Strings-practice-/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1768-merge-strings-alternately](https://github.com/nehageete26/Strings-practice-/tree/master/1768-merge-strings-alternately) |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/nehageete26/Strings-practice-/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/nehageete26/Strings-practice-/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/nehageete26/Strings-practice-/tree/master/0345-reverse-vowels-of-a-string) |
+| [0844-backspace-string-compare](https://github.com/nehageete26/Strings-practice-/tree/master/0844-backspace-string-compare) |
 | [0917-reverse-only-letters](https://github.com/nehageete26/Strings-practice-/tree/master/0917-reverse-only-letters) |
 | [1768-merge-strings-alternately](https://github.com/nehageete26/Strings-practice-/tree/master/1768-merge-strings-alternately) |
 ## Array
@@ -62,4 +64,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/nehageete26/Strings-practice-/tree/master/0003-longest-substring-without-repeating-characters) |
+## Stack
+|  |
+| ------- |
+| [0844-backspace-string-compare](https://github.com/nehageete26/Strings-practice-/tree/master/0844-backspace-string-compare) |
+## Simulation
+|  |
+| ------- |
+| [0844-backspace-string-compare](https://github.com/nehageete26/Strings-practice-/tree/master/0844-backspace-string-compare) |
 <!---LeetCode Topics End-->
