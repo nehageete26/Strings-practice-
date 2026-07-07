@@ -87,4 +87,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0455-assign-cookies](https://github.com/nehageete26/Strings-practice-/tree/master/0455-assign-cookies) |
 | [0680-valid-palindrome-ii](https://github.com/nehageete26/Strings-practice-/tree/master/0680-valid-palindrome-ii) |
+## Database
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1280-students-and-examinations](https://github.com/nehageete26/Strings-practice-/tree/main/1280-students-and-examinations/) | Easy |
 <!---LeetCode Topics End-->
