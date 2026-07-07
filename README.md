@@ -90,5 +90,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0577-employee-bonus](https://github.com/nehageete26/Strings-practice-/tree/main/0577-employee-bonus/) | Easy |
 | [1280-students-and-examinations](https://github.com/nehageete26/Strings-practice-/tree/main/1280-students-and-examinations/) | Easy |
 <!---LeetCode Topics End-->
