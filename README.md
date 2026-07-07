@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/nehageete26/Strings-practice-/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/nehageete26/Strings-practice-/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0049-group-anagrams](https://github.com/nehageete26/Strings-practice-/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/nehageete26/Strings-practice-/tree/main/0058-length-of-last-word/) | Easy |
 | [0125-valid-palindrome](https://github.com/nehageete26/Strings-practice-/tree/master/0125-valid-palindrome) |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/nehageete26/Strings-practice-/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0125-valid-palindrome](https://github.com/nehageete26/Strings-practice-/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/nehageete26/Strings-practice-/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/nehageete26/Strings-practice-/tree/master/0344-reverse-string) |
@@ -92,4 +94,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0577-employee-bonus](https://github.com/nehageete26/Strings-practice-/tree/main/0577-employee-bonus/) | Easy |
 | [1280-students-and-examinations](https://github.com/nehageete26/Strings-practice-/tree/main/1280-students-and-examinations/) | Easy |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/nehageete26/Strings-practice-/tree/main/0005-longest-palindromic-substring/) | Medium |
 <!---LeetCode Topics End-->
