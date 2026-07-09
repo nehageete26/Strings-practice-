@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/nehageete26/Strings-practice-/tree/master/0680-valid-palindrome-ii) |
 | [0844-backspace-string-compare](https://github.com/nehageete26/Strings-practice-/tree/master/0844-backspace-string-compare) |
 | [0917-reverse-only-letters](https://github.com/nehageete26/Strings-practice-/tree/master/0917-reverse-only-letters) |
+| [1021-remove-outermost-parentheses](https://github.com/nehageete26/Strings-practice-/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1544-make-the-string-great](https://github.com/nehageete26/Strings-practice-/tree/main/1544-make-the-string-great/) | Easy |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/nehageete26/Strings-practice-/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1768-merge-strings-alternately](https://github.com/nehageete26/Strings-practice-/tree/master/1768-merge-strings-alternately) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/nehageete26/Strings-practice-/tree/main/0020-valid-parentheses/) | Easy |
 | [0844-backspace-string-compare](https://github.com/nehageete26/Strings-practice-/tree/master/0844-backspace-string-compare) |
+| [1021-remove-outermost-parentheses](https://github.com/nehageete26/Strings-practice-/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1544-make-the-string-great](https://github.com/nehageete26/Strings-practice-/tree/main/1544-make-the-string-great/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
