@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0041-first-missing-positive](https://github.com/nehageete26/Strings-practice-/tree/main/0041-first-missing-positive/) | Hard |
 | [0049-group-anagrams](https://github.com/nehageete26/Strings-practice-/tree/master/0049-group-anagrams) |
 | [0238-product-of-array-except-self](https://github.com/nehageete26/Strings-practice-/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0350-intersection-of-two-arrays-ii](https://github.com/nehageete26/Strings-practice-/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/nehageete26/Strings-practice-/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0041-first-missing-positive](https://github.com/nehageete26/Strings-practice-/tree/main/0041-first-missing-positive/) | Hard |
 | [0049-group-anagrams](https://github.com/nehageete26/Strings-practice-/tree/master/0049-group-anagrams) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/nehageete26/Strings-practice-/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0383-ransom-note](https://github.com/nehageete26/Strings-practice-/tree/master/0383-ransom-note) |
