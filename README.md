@@ -147,4 +147,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0415-add-strings](https://github.com/nehageete26/Strings-practice-/tree/main/0415-add-strings/) | Easy |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/nehageete26/Strings-practice-/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
+## Number Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/nehageete26/Strings-practice-/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 <!---LeetCode Topics End-->
