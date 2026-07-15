@@ -10,6 +10,11 @@ class Solution {
         }
          return gcd(sumeven ,sumodd);
     }
+    // GCD(a,b)=GCD(b,a%b)   
+    //while(b != 0)
+    //remainder = a % b
+    //a = b
+    //b = remainder  then return a
         public static int gcd(int sumeven,int sumodd){
             while(sumodd != 0){
                 int temp=sumodd;
