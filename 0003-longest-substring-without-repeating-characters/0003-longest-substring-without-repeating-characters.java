@@ -1,16 +1,18 @@
 class Solution {
     public int lengthOfLongestSubstring(String s) {
-        ArrayList<Character> list = new ArrayList<>();
-        int start = 0, end = 0, max_length = 0;
+        int start = 0, end = 0, maxi = 0;
+        HashSet<Character> set = new HashSet<>();
         while(end < s.length()){
-            while(list.contains(s.charAt(end))&& start < s.length()){
-                list.remove(Character.valueOf(s.charAt(start)));
-                start ++;
+            if(!set.contains(s.charAt(end))){
+                set.add(s.charAt(end));
+                end++;
+                maxi = Math.max(end-start,maxi);
             }
-            list.add(s.charAt(end));
-            max_length = Math.max(max_length,list.size());
-            end ++;
+            else{
+                set.remove(s.charAt(start));
+                start++;
+            }
         }
-        return max_length;
+        return maxi;
     }
 }
