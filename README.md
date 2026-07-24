@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/nehageete26/Strings-practice-/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/nehageete26/Strings-practice-/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0020-valid-parentheses](https://github.com/nehageete26/Strings-practice-/tree/main/0020-valid-parentheses/) | Easy |
+| [0032-longest-valid-parentheses](https://github.com/nehageete26/Strings-practice-/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0049-group-anagrams](https://github.com/nehageete26/Strings-practice-/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/nehageete26/Strings-practice-/tree/main/0058-length-of-last-word/) | Easy |
 | [0071-simplify-path](https://github.com/nehageete26/Strings-practice-/tree/main/0071-simplify-path/) | Medium |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/nehageete26/Strings-practice-/tree/main/0020-valid-parentheses/) | Easy |
+| [0032-longest-valid-parentheses](https://github.com/nehageete26/Strings-practice-/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0071-simplify-path](https://github.com/nehageete26/Strings-practice-/tree/main/0071-simplify-path/) | Medium |
 | [0316-remove-duplicate-letters](https://github.com/nehageete26/Strings-practice-/tree/main/0316-remove-duplicate-letters/) | Medium |
 | [0844-backspace-string-compare](https://github.com/nehageete26/Strings-practice-/tree/master/0844-backspace-string-compare) |
@@ -136,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/nehageete26/Strings-practice-/tree/main/0005-longest-palindromic-substring/) | Medium |
+| [0032-longest-valid-parentheses](https://github.com/nehageete26/Strings-practice-/tree/main/0032-longest-valid-parentheses/) | Hard |
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
