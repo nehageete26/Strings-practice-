@@ -27,7 +27,7 @@ class Solution {
         maxi = count;
         for(int i=k;i<s.length();i++){
             if(isVowel(s.charAt(i))) count++;
-            if(isVowel(s.charAt(i-k))) count--;
+            if(isVowel(s.charAt(i-k))) count--; // when window, move decrease the count of the vowel if present in the original window
             maxi = Math.max(maxi,count);
         }
         return maxi;
