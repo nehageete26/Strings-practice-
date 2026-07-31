@@ -16,10 +16,10 @@
 // }
 
 class Solution {
-    public String restoreString(String s, int[] in) {
-        char[] c = new char[in.length];
-        for(int i = 0; i < in.length; i++)
-            c[in[i]] = s.charAt(i);
+    public String restoreString(String s, int[] indices) {
+        char[] c = new char[indices.length];
+        for(int i = 0; i < c.length; i++)
+            c[indices[i]] = s.charAt(i);
         return new String(c);
     }
 }
