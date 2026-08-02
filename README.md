@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/nehageete26/Strings-practice-/tree/master/0455-assign-cookies) |
 | [0560-subarray-sum-equals-k](https://github.com/nehageete26/Strings-practice-/tree/master/0560-subarray-sum-equals-k) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/nehageete26/Strings-practice-/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
+| [0877-stone-game](https://github.com/nehageete26/Strings-practice-/tree/main/0877-stone-game/) | Medium |
 | [1528-shuffle-string](https://github.com/nehageete26/Strings-practice-/tree/main/1528-shuffle-string/) | Easy |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/nehageete26/Strings-practice-/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/nehageete26/Strings-practice-/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/nehageete26/Strings-practice-/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0032-longest-valid-parentheses](https://github.com/nehageete26/Strings-practice-/tree/main/0032-longest-valid-parentheses/) | Hard |
+| [0877-stone-game](https://github.com/nehageete26/Strings-practice-/tree/main/0877-stone-game/) | Medium |
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -173,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0202-happy-number](https://github.com/nehageete26/Strings-practice-/tree/main/0202-happy-number/) | Easy |
 | [0415-add-strings](https://github.com/nehageete26/Strings-practice-/tree/main/0415-add-strings/) | Easy |
+| [0877-stone-game](https://github.com/nehageete26/Strings-practice-/tree/main/0877-stone-game/) | Medium |
 | [1513-number-of-substrings-with-only-1s](https://github.com/nehageete26/Strings-practice-/tree/main/1513-number-of-substrings-with-only-1s/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/nehageete26/Strings-practice-/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/nehageete26/Strings-practice-/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
@@ -185,4 +188,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0316-remove-duplicate-letters](https://github.com/nehageete26/Strings-practice-/tree/main/0316-remove-duplicate-letters/) | Medium |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/nehageete26/Strings-practice-/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
+## Game Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0877-stone-game](https://github.com/nehageete26/Strings-practice-/tree/main/0877-stone-game/) | Medium |
 <!---LeetCode Topics End-->
