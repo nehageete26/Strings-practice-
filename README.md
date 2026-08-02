@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/nehageete26/Strings-practice-/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0455-assign-cookies](https://github.com/nehageete26/Strings-practice-/tree/master/0455-assign-cookies) |
 | [0560-subarray-sum-equals-k](https://github.com/nehageete26/Strings-practice-/tree/master/0560-subarray-sum-equals-k) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/nehageete26/Strings-practice-/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
 | [1528-shuffle-string](https://github.com/nehageete26/Strings-practice-/tree/main/1528-shuffle-string/) | Easy |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/nehageete26/Strings-practice-/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/nehageete26/Strings-practice-/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/nehageete26/Strings-practice-/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/nehageete26/Strings-practice-/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
