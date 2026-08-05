@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/nehageete26/Strings-practice-/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/nehageete26/Strings-practice-/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/nehageete26/Strings-practice-/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/nehageete26/Strings-practice-/tree/main/3190-find-minimum-operations-to-make-all-elements-divisible-by-three/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/nehageete26/Strings-practice-/tree/main/0877-stone-game/) | Medium |
 | [1513-number-of-substrings-with-only-1s](https://github.com/nehageete26/Strings-practice-/tree/main/1513-number-of-substrings-with-only-1s/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/nehageete26/Strings-practice-/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
+| [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/nehageete26/Strings-practice-/tree/main/3190-find-minimum-operations-to-make-all-elements-divisible-by-three/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/nehageete26/Strings-practice-/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 ## Number Theory
 | Problem Name | Difficulty |
