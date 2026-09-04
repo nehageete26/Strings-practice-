@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2785-sort-vowels-in-a-string](https://github.com/nehageete26/Strings-practice-/tree/main/2785-sort-vowels-in-a-string/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/nehageete26/Strings-practice-/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3163-string-compression-iii](https://github.com/nehageete26/Strings-practice-/tree/main/3163-string-compression-iii/) | Medium |
+| [3798-largest-even-number](https://github.com/nehageete26/Strings-practice-/tree/main/3798-largest-even-number/) | Easy |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/nehageete26/Strings-practice-/tree/main/3823-reverse-letters-then-special-characters-in-a-string/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
