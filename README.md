@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/nehageete26/Strings-practice-/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/nehageete26/Strings-practice-/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/nehageete26/Strings-practice-/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [3005-count-elements-with-maximum-frequency](https://github.com/nehageete26/Strings-practice-/tree/main/3005-count-elements-with-maximum-frequency/) | Easy |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/nehageete26/Strings-practice-/tree/main/3190-find-minimum-operations-to-make-all-elements-divisible-by-three/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/nehageete26/Strings-practice-/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 ## Hash Table
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/nehageete26/Strings-practice-/tree/master/0567-permutation-in-string) |
 | [0819-most-common-word](https://github.com/nehageete26/Strings-practice-/tree/main/0819-most-common-word/) | Easy |
 | [1796-second-largest-digit-in-a-string](https://github.com/nehageete26/Strings-practice-/tree/main/1796-second-largest-digit-in-a-string/) | Easy |
+| [3005-count-elements-with-maximum-frequency](https://github.com/nehageete26/Strings-practice-/tree/main/3005-count-elements-with-maximum-frequency/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -122,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/nehageete26/Strings-practice-/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0451-sort-characters-by-frequency](https://github.com/nehageete26/Strings-practice-/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0819-most-common-word](https://github.com/nehageete26/Strings-practice-/tree/main/0819-most-common-word/) | Easy |
+| [3005-count-elements-with-maximum-frequency](https://github.com/nehageete26/Strings-practice-/tree/main/3005-count-elements-with-maximum-frequency/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
