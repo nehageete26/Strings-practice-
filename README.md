@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/nehageete26/Strings-practice-/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0389-find-the-difference](https://github.com/nehageete26/Strings-practice-/tree/master/0389-find-the-difference) |
 | [0415-add-strings](https://github.com/nehageete26/Strings-practice-/tree/main/0415-add-strings/) | Easy |
+| [0451-sort-characters-by-frequency](https://github.com/nehageete26/Strings-practice-/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0459-repeated-substring-pattern](https://github.com/nehageete26/Strings-practice-/tree/main/0459-repeated-substring-pattern/) | Easy |
 | [0520-detect-capital](https://github.com/nehageete26/Strings-practice-/tree/master/0520-detect-capital) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/nehageete26/Strings-practice-/tree/main/0557-reverse-words-in-a-string-iii/) | Easy |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/nehageete26/Strings-practice-/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/nehageete26/Strings-practice-/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0389-find-the-difference](https://github.com/nehageete26/Strings-practice-/tree/master/0389-find-the-difference) |
+| [0451-sort-characters-by-frequency](https://github.com/nehageete26/Strings-practice-/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/nehageete26/Strings-practice-/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/nehageete26/Strings-practice-/tree/master/0567-permutation-in-string) |
 | [0819-most-common-word](https://github.com/nehageete26/Strings-practice-/tree/main/0819-most-common-word/) | Easy |
@@ -110,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/nehageete26/Strings-practice-/tree/main/0242-valid-anagram/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/nehageete26/Strings-practice-/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0389-find-the-difference](https://github.com/nehageete26/Strings-practice-/tree/master/0389-find-the-difference) |
+| [0451-sort-characters-by-frequency](https://github.com/nehageete26/Strings-practice-/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0455-assign-cookies](https://github.com/nehageete26/Strings-practice-/tree/master/0455-assign-cookies) |
 | [2785-sort-vowels-in-a-string](https://github.com/nehageete26/Strings-practice-/tree/main/2785-sort-vowels-in-a-string/) | Medium |
 ## Counting
@@ -117,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0383-ransom-note](https://github.com/nehageete26/Strings-practice-/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/nehageete26/Strings-practice-/tree/main/0387-first-unique-character-in-a-string/) | Easy |
+| [0451-sort-characters-by-frequency](https://github.com/nehageete26/Strings-practice-/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0819-most-common-word](https://github.com/nehageete26/Strings-practice-/tree/main/0819-most-common-word/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
@@ -218,4 +222,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/nehageete26/Strings-practice-/tree/main/0020-valid-parentheses/) | Easy |
+## Heap (Priority Queue)
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0451-sort-characters-by-frequency](https://github.com/nehageete26/Strings-practice-/tree/main/0451-sort-characters-by-frequency/) | Medium |
+## Bucket Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0451-sort-characters-by-frequency](https://github.com/nehageete26/Strings-practice-/tree/main/0451-sort-characters-by-frequency/) | Medium |
 <!---LeetCode Topics End-->
