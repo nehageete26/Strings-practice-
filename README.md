@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0071-simplify-path](https://github.com/nehageete26/Strings-practice-/tree/main/0071-simplify-path/) | Medium |
 | [0125-valid-palindrome](https://github.com/nehageete26/Strings-practice-/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/nehageete26/Strings-practice-/tree/master/0151-reverse-words-in-a-string) |
+| [0242-valid-anagram](https://github.com/nehageete26/Strings-practice-/tree/main/0242-valid-anagram/) | Easy |
 | [0316-remove-duplicate-letters](https://github.com/nehageete26/Strings-practice-/tree/main/0316-remove-duplicate-letters/) | Medium |
 | [0344-reverse-string](https://github.com/nehageete26/Strings-practice-/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/nehageete26/Strings-practice-/tree/master/0345-reverse-vowels-of-a-string) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/nehageete26/Strings-practice-/tree/main/0041-first-missing-positive/) | Hard |
 | [0049-group-anagrams](https://github.com/nehageete26/Strings-practice-/tree/master/0049-group-anagrams) |
 | [0202-happy-number](https://github.com/nehageete26/Strings-practice-/tree/main/0202-happy-number/) | Easy |
+| [0242-valid-anagram](https://github.com/nehageete26/Strings-practice-/tree/main/0242-valid-anagram/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/nehageete26/Strings-practice-/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0383-ransom-note](https://github.com/nehageete26/Strings-practice-/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/nehageete26/Strings-practice-/tree/main/0387-first-unique-character-in-a-string/) | Easy |
@@ -104,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0049-group-anagrams](https://github.com/nehageete26/Strings-practice-/tree/master/0049-group-anagrams) |
+| [0242-valid-anagram](https://github.com/nehageete26/Strings-practice-/tree/main/0242-valid-anagram/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/nehageete26/Strings-practice-/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0389-find-the-difference](https://github.com/nehageete26/Strings-practice-/tree/master/0389-find-the-difference) |
 | [0455-assign-cookies](https://github.com/nehageete26/Strings-practice-/tree/master/0455-assign-cookies) |
