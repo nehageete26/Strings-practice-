@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/nehageete26/Strings-practice-/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/nehageete26/Strings-practice-/tree/main/0005-longest-palindromic-substring/) | Medium |
+| [0014-longest-common-prefix](https://github.com/nehageete26/Strings-practice-/tree/main/0014-longest-common-prefix/) | Easy |
 | [0020-valid-parentheses](https://github.com/nehageete26/Strings-practice-/tree/main/0020-valid-parentheses/) | Easy |
 | [0032-longest-valid-parentheses](https://github.com/nehageete26/Strings-practice-/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0049-group-anagrams](https://github.com/nehageete26/Strings-practice-/tree/master/0049-group-anagrams) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0014-longest-common-prefix](https://github.com/nehageete26/Strings-practice-/tree/main/0014-longest-common-prefix/) | Easy |
 | [0041-first-missing-positive](https://github.com/nehageete26/Strings-practice-/tree/main/0041-first-missing-positive/) | Hard |
 | [0049-group-anagrams](https://github.com/nehageete26/Strings-practice-/tree/master/0049-group-anagrams) |
 | [0238-product-of-array-except-self](https://github.com/nehageete26/Strings-practice-/tree/main/0238-product-of-array-except-self/) | Medium |
@@ -239,4 +241,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/nehageete26/Strings-practice-/tree/main/0451-sort-characters-by-frequency/) | Medium |
+## Trie
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0014-longest-common-prefix](https://github.com/nehageete26/Strings-practice-/tree/main/0014-longest-common-prefix/) | Easy |
 <!---LeetCode Topics End-->
