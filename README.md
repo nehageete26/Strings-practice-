@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/nehageete26/Strings-practice-/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/nehageete26/Strings-practice-/tree/master/0680-valid-palindrome-ii) |
 | [0709-to-lower-case](https://github.com/nehageete26/Strings-practice-/tree/main/0709-to-lower-case/) | Easy |
+| [0796-rotate-string](https://github.com/nehageete26/Strings-practice-/tree/main/0796-rotate-string/) | Easy |
 | [0819-most-common-word](https://github.com/nehageete26/Strings-practice-/tree/main/0819-most-common-word/) | Easy |
 | [0844-backspace-string-compare](https://github.com/nehageete26/Strings-practice-/tree/master/0844-backspace-string-compare) |
 | [0917-reverse-only-letters](https://github.com/nehageete26/Strings-practice-/tree/master/0917-reverse-only-letters) |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0459-repeated-substring-pattern](https://github.com/nehageete26/Strings-practice-/tree/main/0459-repeated-substring-pattern/) | Easy |
+| [0796-rotate-string](https://github.com/nehageete26/Strings-practice-/tree/main/0796-rotate-string/) | Easy |
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
