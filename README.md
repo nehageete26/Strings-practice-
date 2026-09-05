@@ -198,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/nehageete26/Strings-practice-/tree/main/0069-sqrtx/) | Easy |
 | [0202-happy-number](https://github.com/nehageete26/Strings-practice-/tree/main/0202-happy-number/) | Easy |
 | [0415-add-strings](https://github.com/nehageete26/Strings-practice-/tree/main/0415-add-strings/) | Easy |
+| [0507-perfect-number](https://github.com/nehageete26/Strings-practice-/tree/main/0507-perfect-number/) | Easy |
 | [0877-stone-game](https://github.com/nehageete26/Strings-practice-/tree/main/0877-stone-game/) | Medium |
 | [1154-day-of-the-year](https://github.com/nehageete26/Strings-practice-/tree/main/1154-day-of-the-year/) | Easy |
 | [1513-number-of-substrings-with-only-1s](https://github.com/nehageete26/Strings-practice-/tree/main/1513-number-of-substrings-with-only-1s/) | Medium |
