@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/nehageete26/Strings-practice-/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1768-merge-strings-alternately](https://github.com/nehageete26/Strings-practice-/tree/master/1768-merge-strings-alternately) |
 | [1796-second-largest-digit-in-a-string](https://github.com/nehageete26/Strings-practice-/tree/main/1796-second-largest-digit-in-a-string/) | Easy |
+| [1903-largest-odd-number-in-string](https://github.com/nehageete26/Strings-practice-/tree/main/1903-largest-odd-number-in-string/) | Easy |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/nehageete26/Strings-practice-/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/nehageete26/Strings-practice-/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2785-sort-vowels-in-a-string](https://github.com/nehageete26/Strings-practice-/tree/main/2785-sort-vowels-in-a-string/) | Medium |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/nehageete26/Strings-practice-/tree/master/0455-assign-cookies) |
 | [0680-valid-palindrome-ii](https://github.com/nehageete26/Strings-practice-/tree/master/0680-valid-palindrome-ii) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/nehageete26/Strings-practice-/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
+| [1903-largest-odd-number-in-string](https://github.com/nehageete26/Strings-practice-/tree/main/1903-largest-odd-number-in-string/) | Easy |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/nehageete26/Strings-practice-/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 ## Database
 | Problem Name | Difficulty |
@@ -202,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/nehageete26/Strings-practice-/tree/main/0877-stone-game/) | Medium |
 | [1154-day-of-the-year](https://github.com/nehageete26/Strings-practice-/tree/main/1154-day-of-the-year/) | Easy |
 | [1513-number-of-substrings-with-only-1s](https://github.com/nehageete26/Strings-practice-/tree/main/1513-number-of-substrings-with-only-1s/) | Medium |
+| [1903-largest-odd-number-in-string](https://github.com/nehageete26/Strings-practice-/tree/main/1903-largest-odd-number-in-string/) | Easy |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/nehageete26/Strings-practice-/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/nehageete26/Strings-practice-/tree/main/3190-find-minimum-operations-to-make-all-elements-divisible-by-three/) | Easy |
 | [3345-smallest-divisible-digit-product-i](https://github.com/nehageete26/Strings-practice-/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
