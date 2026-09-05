@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/nehageete26/Strings-practice-/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/nehageete26/Strings-practice-/tree/main/0005-longest-palindromic-substring/) | Medium |
+| [0008-string-to-integer-atoi](https://github.com/nehageete26/Strings-practice-/tree/main/0008-string-to-integer-atoi/) | Medium |
 | [0014-longest-common-prefix](https://github.com/nehageete26/Strings-practice-/tree/main/0014-longest-common-prefix/) | Easy |
 | [0020-valid-parentheses](https://github.com/nehageete26/Strings-practice-/tree/main/0020-valid-parentheses/) | Easy |
 | [0032-longest-valid-parentheses](https://github.com/nehageete26/Strings-practice-/tree/main/0032-longest-valid-parentheses/) | Hard |
