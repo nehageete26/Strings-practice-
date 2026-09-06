@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1903-largest-odd-number-in-string](https://github.com/nehageete26/Strings-practice-/tree/main/1903-largest-odd-number-in-string/) | Easy |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/nehageete26/Strings-practice-/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/nehageete26/Strings-practice-/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [2129-capitalize-the-title](https://github.com/nehageete26/Strings-practice-/tree/main/2129-capitalize-the-title/) | Easy |
 | [2785-sort-vowels-in-a-string](https://github.com/nehageete26/Strings-practice-/tree/main/2785-sort-vowels-in-a-string/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/nehageete26/Strings-practice-/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3163-string-compression-iii](https://github.com/nehageete26/Strings-practice-/tree/main/3163-string-compression-iii/) | Medium |
