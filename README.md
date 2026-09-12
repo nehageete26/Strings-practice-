@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1768-merge-strings-alternately](https://github.com/nehageete26/Strings-practice-/tree/master/1768-merge-strings-alternately) |
 | [1796-second-largest-digit-in-a-string](https://github.com/nehageete26/Strings-practice-/tree/main/1796-second-largest-digit-in-a-string/) | Easy |
 | [1903-largest-odd-number-in-string](https://github.com/nehageete26/Strings-practice-/tree/main/1903-largest-odd-number-in-string/) | Easy |
+| [2053-kth-distinct-string-in-an-array](https://github.com/nehageete26/Strings-practice-/tree/main/2053-kth-distinct-string-in-an-array/) | Easy |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/nehageete26/Strings-practice-/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/nehageete26/Strings-practice-/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2129-capitalize-the-title](https://github.com/nehageete26/Strings-practice-/tree/main/2129-capitalize-the-title/) | Easy |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/nehageete26/Strings-practice-/tree/main/0877-stone-game/) | Medium |
 | [1528-shuffle-string](https://github.com/nehageete26/Strings-practice-/tree/main/1528-shuffle-string/) | Easy |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/nehageete26/Strings-practice-/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
+| [2053-kth-distinct-string-in-an-array](https://github.com/nehageete26/Strings-practice-/tree/main/2053-kth-distinct-string-in-an-array/) | Easy |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/nehageete26/Strings-practice-/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/nehageete26/Strings-practice-/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/nehageete26/Strings-practice-/tree/main/3005-count-elements-with-maximum-frequency/) | Easy |
@@ -111,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/nehageete26/Strings-practice-/tree/master/0567-permutation-in-string) |
 | [0819-most-common-word](https://github.com/nehageete26/Strings-practice-/tree/main/0819-most-common-word/) | Easy |
 | [1796-second-largest-digit-in-a-string](https://github.com/nehageete26/Strings-practice-/tree/main/1796-second-largest-digit-in-a-string/) | Easy |
+| [2053-kth-distinct-string-in-an-array](https://github.com/nehageete26/Strings-practice-/tree/main/2053-kth-distinct-string-in-an-array/) | Easy |
 | [3005-count-elements-with-maximum-frequency](https://github.com/nehageete26/Strings-practice-/tree/main/3005-count-elements-with-maximum-frequency/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
@@ -133,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/nehageete26/Strings-practice-/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0451-sort-characters-by-frequency](https://github.com/nehageete26/Strings-practice-/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0819-most-common-word](https://github.com/nehageete26/Strings-practice-/tree/main/0819-most-common-word/) | Easy |
+| [2053-kth-distinct-string-in-an-array](https://github.com/nehageete26/Strings-practice-/tree/main/2053-kth-distinct-string-in-an-array/) | Easy |
 | [3005-count-elements-with-maximum-frequency](https://github.com/nehageete26/Strings-practice-/tree/main/3005-count-elements-with-maximum-frequency/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
