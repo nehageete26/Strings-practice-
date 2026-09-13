@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/nehageete26/Strings-practice-/tree/main/0005-longest-palindromic-substring/) | Medium |
+| [0031-next-permutation](https://github.com/nehageete26/Strings-practice-/tree/main/0031-next-permutation/) | Medium |
 | [0125-valid-palindrome](https://github.com/nehageete26/Strings-practice-/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/nehageete26/Strings-practice-/tree/master/0151-reverse-words-in-a-string) |
 | [0202-happy-number](https://github.com/nehageete26/Strings-practice-/tree/main/0202-happy-number/) | Easy |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/nehageete26/Strings-practice-/tree/main/0014-longest-common-prefix/) | Easy |
+| [0031-next-permutation](https://github.com/nehageete26/Strings-practice-/tree/main/0031-next-permutation/) | Medium |
 | [0041-first-missing-positive](https://github.com/nehageete26/Strings-practice-/tree/main/0041-first-missing-positive/) | Hard |
 | [0049-group-anagrams](https://github.com/nehageete26/Strings-practice-/tree/master/0049-group-anagrams) |
 | [0238-product-of-array-except-self](https://github.com/nehageete26/Strings-practice-/tree/main/0238-product-of-array-except-self/) | Medium |
