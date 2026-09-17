@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0071-simplify-path](https://github.com/nehageete26/Strings-practice-/tree/main/0071-simplify-path/) | Medium |
 | [0125-valid-palindrome](https://github.com/nehageete26/Strings-practice-/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/nehageete26/Strings-practice-/tree/master/0151-reverse-words-in-a-string) |
+| [0168-excel-sheet-column-title](https://github.com/nehageete26/Strings-practice-/tree/main/0168-excel-sheet-column-title/) | Easy |
 | [0205-isomorphic-strings](https://github.com/nehageete26/Strings-practice-/tree/main/0205-isomorphic-strings/) | Easy |
 | [0242-valid-anagram](https://github.com/nehageete26/Strings-practice-/tree/main/0242-valid-anagram/) | Easy |
 | [0316-remove-duplicate-letters](https://github.com/nehageete26/Strings-practice-/tree/main/0316-remove-duplicate-letters/) | Medium |
@@ -216,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0069-sqrtx](https://github.com/nehageete26/Strings-practice-/tree/main/0069-sqrtx/) | Easy |
+| [0168-excel-sheet-column-title](https://github.com/nehageete26/Strings-practice-/tree/main/0168-excel-sheet-column-title/) | Easy |
 | [0202-happy-number](https://github.com/nehageete26/Strings-practice-/tree/main/0202-happy-number/) | Easy |
 | [0415-add-strings](https://github.com/nehageete26/Strings-practice-/tree/main/0415-add-strings/) | Easy |
 | [0507-perfect-number](https://github.com/nehageete26/Strings-practice-/tree/main/0507-perfect-number/) | Easy |
