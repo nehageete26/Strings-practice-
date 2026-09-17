@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/nehageete26/Strings-practice-/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/nehageete26/Strings-practice-/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0389-find-the-difference](https://github.com/nehageete26/Strings-practice-/tree/master/0389-find-the-difference) |
+| [0412-fizz-buzz](https://github.com/nehageete26/Strings-practice-/tree/main/0412-fizz-buzz/) | Easy |
 | [0415-add-strings](https://github.com/nehageete26/Strings-practice-/tree/main/0415-add-strings/) | Easy |
 | [0451-sort-characters-by-frequency](https://github.com/nehageete26/Strings-practice-/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0459-repeated-substring-pattern](https://github.com/nehageete26/Strings-practice-/tree/main/0459-repeated-substring-pattern/) | Easy |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0412-fizz-buzz](https://github.com/nehageete26/Strings-practice-/tree/main/0412-fizz-buzz/) | Easy |
 | [0415-add-strings](https://github.com/nehageete26/Strings-practice-/tree/main/0415-add-strings/) | Easy |
 | [0844-backspace-string-compare](https://github.com/nehageete26/Strings-practice-/tree/master/0844-backspace-string-compare) |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/nehageete26/Strings-practice-/tree/main/3823-reverse-letters-then-special-characters-in-a-string/) | Easy |
@@ -219,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/nehageete26/Strings-practice-/tree/main/0069-sqrtx/) | Easy |
 | [0168-excel-sheet-column-title](https://github.com/nehageete26/Strings-practice-/tree/main/0168-excel-sheet-column-title/) | Easy |
 | [0202-happy-number](https://github.com/nehageete26/Strings-practice-/tree/main/0202-happy-number/) | Easy |
+| [0412-fizz-buzz](https://github.com/nehageete26/Strings-practice-/tree/main/0412-fizz-buzz/) | Easy |
 | [0415-add-strings](https://github.com/nehageete26/Strings-practice-/tree/main/0415-add-strings/) | Easy |
 | [0507-perfect-number](https://github.com/nehageete26/Strings-practice-/tree/main/0507-perfect-number/) | Easy |
 | [0877-stone-game](https://github.com/nehageete26/Strings-practice-/tree/main/0877-stone-game/) | Medium |
