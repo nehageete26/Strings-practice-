@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0819-most-common-word](https://github.com/nehageete26/Strings-practice-/tree/main/0819-most-common-word/) | Easy |
 | [0844-backspace-string-compare](https://github.com/nehageete26/Strings-practice-/tree/master/0844-backspace-string-compare) |
 | [0917-reverse-only-letters](https://github.com/nehageete26/Strings-practice-/tree/master/0917-reverse-only-letters) |
+| [1002-find-common-characters](https://github.com/nehageete26/Strings-practice-/tree/main/1002-find-common-characters/) | Easy |
 | [1021-remove-outermost-parentheses](https://github.com/nehageete26/Strings-practice-/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/nehageete26/Strings-practice-/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1154-day-of-the-year](https://github.com/nehageete26/Strings-practice-/tree/main/1154-day-of-the-year/) | Easy |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0744-find-smallest-letter-greater-than-target](https://github.com/nehageete26/Strings-practice-/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
 | [0819-most-common-word](https://github.com/nehageete26/Strings-practice-/tree/main/0819-most-common-word/) | Easy |
 | [0877-stone-game](https://github.com/nehageete26/Strings-practice-/tree/main/0877-stone-game/) | Medium |
+| [1002-find-common-characters](https://github.com/nehageete26/Strings-practice-/tree/main/1002-find-common-characters/) | Easy |
 | [1528-shuffle-string](https://github.com/nehageete26/Strings-practice-/tree/main/1528-shuffle-string/) | Easy |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/nehageete26/Strings-practice-/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/nehageete26/Strings-practice-/tree/main/2053-kth-distinct-string-in-an-array/) | Easy |
@@ -118,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/nehageete26/Strings-practice-/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/nehageete26/Strings-practice-/tree/master/0567-permutation-in-string) |
 | [0819-most-common-word](https://github.com/nehageete26/Strings-practice-/tree/main/0819-most-common-word/) | Easy |
+| [1002-find-common-characters](https://github.com/nehageete26/Strings-practice-/tree/main/1002-find-common-characters/) | Easy |
 | [1796-second-largest-digit-in-a-string](https://github.com/nehageete26/Strings-practice-/tree/main/1796-second-largest-digit-in-a-string/) | Easy |
 | [2053-kth-distinct-string-in-an-array](https://github.com/nehageete26/Strings-practice-/tree/main/2053-kth-distinct-string-in-an-array/) | Easy |
 | [3005-count-elements-with-maximum-frequency](https://github.com/nehageete26/Strings-practice-/tree/main/3005-count-elements-with-maximum-frequency/) | Easy |
